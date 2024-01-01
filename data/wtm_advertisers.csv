@@ -1,10 +1,12 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_active,entities.is_political,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
+02402d63-8102-4daf-b1e3-411d96e205ae,Partido Popular Arnedo,2023-12-21T05:07:51.598Z,e2c0ff43-a177-4ad5-a193-6a3a7b740d90,PP,true,true,Spain,es,810594172320801,Partido Popular Arnedo,Facebook
 02abca91-d682-43bf-a54e-76d4e83a9f13,Populares de Jumilla,2023-05-25T06:54:46.766Z,973e86bd-5398-48f3-89b3-7d1aa08aeff5,PP,true,true,Spain,es,1544966625741757,Populares de Jumilla,Facebook
 0388786d-65a0-4f84-8b07-425b7461d745,Madrid Exterior PP,2023-04-16T15:07:02.375Z,9721978e-78fc-49c9-bba4-01346732d85c,PP,true,true,Spain,es,102117159406873,Madrid Exterior PP,Facebook
 038e41dd-2a7d-4b7e-903f-cbe80caec061,Juancho Ortiz,2023-03-28T10:54:52.273Z,00b89d91-ef91-48b3-8e01-2cda02af1888,PP,true,true,Spain,es,506225536438416,Juancho Ortiz,Facebook
 05009374-08f4-4ea6-9389-00fc17f5a351,PP El Carpio,2023-03-25T10:54:36.350Z,3e06b5be-8267-4ce6-966a-06855ada6251,PP,true,true,Spain,es,103759005619024,PP El Carpio,Facebook
 05806809-abfc-438f-9141-ecf0f319d9e1,Partido Popular de Adra,2023-05-18T06:54:57.153Z,f67900e8-16cc-41ff-81e0-a18e439b7dff,PP,true,true,Spain,es,290091581070,Partido Popular de Adra,Facebook
 05a54d8f-2fb3-49ab-951c-8bf2658bc467,Partido Popular de Alhama de Murcia,2023-02-26T10:54:55.787Z,ec5cd295-6791-4b3f-9e18-c848e68cfa68,PP,true,true,Spain,es,185398898902533,Partido Popular de Alhama de Murcia,Facebook
+062af12d-7b2d-4cc2-bc3f-a1bf222c7a02,Partido Popular Morcín,2023-11-07T05:08:23.403Z,bd894f04-97a4-4e91-9f7c-3e8984e29f19,PP,true,true,Spain,es,130585573475014,Partido Popular Morcín,Facebook
 07662443-753f-4357-9422-4343dfd3abe2,Populares de Casabermeja,2023-05-28T06:54:05.406Z,49229f15-d3f7-4d82-bd50-779f90bed2f0,PP,true,true,Spain,es,613512345363956,Populares de Casabermeja,Facebook
 09bb2fff-cc73-4356-850c-c149afc1cf91,Partido Popular de Mazarrón,2023-02-20T10:54:47.198Z,e0c9270c-9dec-4d4b-ad89-97abe21cda71,PP,true,true,Spain,es,1425548567746388,Partido Popular de Mazarrón,Facebook
 0b167743-7e6b-4e06-b212-1c5b3de96236,Partit Popular Alzira,2023-05-12T06:54:13.409Z,5f8869a4-dddc-4d27-b0d1-92ccced5dbb7,PP,true,true,Spain,es,488094328000443,Partit Popular Alzira,Facebook
@@ -141,6 +143,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 774ae4c6-320c-4a3b-823c-7dfca9dd9e67,Partido Popular de Tegueste,2023-05-23T06:54:46.085Z,06285cc8-73ed-47e5-b2e0-aa0022d5009e,PP,true,true,Spain,es,103942446029048,Partido Popular de Tegueste,Facebook
 77b1ae9c-e0e6-42aa-9e82-c1c090247195,María José Catalá,2023-03-19T10:54:46.843Z,2e66d236-8252-44db-88b9-422285efec3c,PP,true,true,Spain,es,145583742149882,María José Catalá,Facebook
 78322c59-bcf1-4039-827b-423b4de1ff18,PP Cartaya,2023-05-28T06:54:04.470Z,b24ca1f9-4abf-458f-ba6c-c2a32fe18bb6,PP,true,true,Spain,es,234018013759422,PP Cartaya,Facebook
+786c1a8c-b936-4fb9-bacb-e9cae712dd4e,Partido Popular El Campillo,2023-12-18T05:08:41.900Z,0277d02d-c120-4358-9e98-d18ab42e1514,PP,true,true,Spain,es,107915690666224,Partido Popular El Campillo,Facebook
 78c5b0b9-f8d2-46ec-b9d9-acb5604fc2c1,Partido Popular de Salamanca,2023-07-12T15:01:07.867Z,82e2b2d6-0616-4e1b-8578-acb8f33698c1,PP,true,true,Spain,es,110903562266070,Partido Popular de Salamanca,Facebook
 7a68f420-8c53-4788-ba2b-769638ef4487,PP Cádiz Capital,2023-02-11T10:54:22.418Z,e6d6a34c-1d91-4719-82ae-8fa91411f3a2,PP,true,true,Spain,es,246323675530143,PP Cádiz Capital,Facebook
 7b8f48ea-8004-41d7-bc84-8c33c065f5a0,Populares de Montoro,2023-05-15T06:54:56.928Z,ffa68fb1-0262-4c5a-bf2d-62c2b3a12b3e,PP,true,true,Spain,es,439463209499237,Populares de Montoro,Facebook
@@ -151,6 +154,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_activ
 81d670fc-0b55-4b93-b6cd-b7a64ff6ec92,PPSantAntoni,2023-05-19T06:54:49.387Z,1fbb877c-f19e-40e5-a3c1-db8133b6d813,PP,true,true,Spain,es,159641554128781,PPSantAntoni,Facebook
 82181286-1312-46f2-9b71-7d84df3212a0,Partido Popular de Tomelloso,2023-02-15T10:54:38.186Z,9d8fdeb1-3003-4324-82f7-8a58223b6bd4,PP,true,true,Spain,es,567812490020723,Partido Popular de Tomelloso,Facebook
 82acf240-c419-4fe7-866f-40c44b28afc0,Grupo Popular del Ayuntamiento de Madrid,2022-08-16T15:24:00.627Z,4b8cd27b-b71f-4c55-9345-9f0671acfddf,PP,true,true,Spain,es,471729436227925,Grupo Popular del Ayuntamiento de Madrid,Facebook
+82c80033-9735-449c-ad76-288ef369a690,Partido Popular La Rinconada,2023-10-31T05:45:18.104Z,6cf348f3-27cd-46d6-be47-9cd3acc757d9,PP,true,true,Spain,es,366934934029804,Partido Popular La Rinconada,Facebook
 82d74717-0f0f-4145-b16e-f9bf87f4216c,Populares de Lorca,2023-03-26T10:54:41.490Z,d909428a-a93e-4fca-b1f9-03e1161892c7,PP,true,true,Spain,es,506692036109113,Populares de Lorca,Facebook
 84154320-3b1f-406a-b22e-0f9aef65c075,PP El Casar Y Mesones,2023-05-30T06:54:58.412Z,6acfad7c-4983-49de-bb91-4b5962b8ab80,PP,true,true,Spain,es,900657469986145,PP El Casar Y Mesones,Facebook
 86dbbeef-c7cf-4ca8-9ea4-8151ef7e6d72,Populares Oria,2023-05-28T06:54:06.213Z,48b230e9-c60d-4bd9-a1fc-21655d08ebd2,PP,true,true,Spain,es,1569045683361801,Populares Oria,Facebook
@@ -278,6 +282,7 @@ f2014e1e-4321-4eeb-ab82-bf183ff46dfa,Bea Fanjul,2023-07-17T06:33:11.878Z,4c22308
 f2a71a67-b4b4-40f8-8315-dfe5ad703210,Grupo Municipal Popular del Ayto. de Toledo,2023-05-28T06:54:05.861Z,8045b2eb-f5ba-40bf-8c87-3d5f9b24e289,PP,true,true,Spain,es,107826722683838,Grupo Municipal Popular del Ayto. de Toledo,Facebook
 f349dfbf-f349-4492-b45e-f70b43f8a996,PARTIDO POPULAR CALATAYUD,2023-03-28T10:54:51.855Z,38a0e9c6-0fea-4cbb-b27a-db108a850d64,PP,true,true,Spain,es,174373108285,PARTIDO POPULAR CALATAYUD,Facebook
 f41551d4-366d-47f3-84be-1b70e037539a,PP Álava,2023-02-07T15:05:57.591Z,dd9f4f36-9cf0-4f14-8689-124a213e97f9,PP,true,true,Spain,es,126470724088118,PP Álava,Facebook
+f4cadbef-bdd4-444d-b61d-209ca3da862c,Partido Popular de Toledo,2023-11-02T05:09:21.106Z,16bf5d13-9200-46fc-94d7-fe16042ffece,PP,true,true,Spain,es,646358755466221,Partido Popular de Toledo,Facebook
 f61f5df7-cd52-4207-8634-8c319818f3b2,Partido Popular de Güéjar Sierra,2023-04-29T06:54:43.736Z,aaf6d65f-0894-456c-ae14-291b9bcf97a2,PP,true,true,Spain,es,1578699972411102,Partido Popular de Güéjar Sierra,Facebook
 f8ccaa3c-1e5d-421a-80b2-338bff296a8a,Populares Ciempozuelos,2023-05-30T06:54:57.932Z,e5ec4c32-e31e-43f4-9b97-d0aa10165b08,PP,true,true,Spain,es,664990463634125,Populares Ciempozuelos,Facebook
 faf80ad8-a340-4432-93eb-b8583bae38a0,Partido Popular de San Martín del Rey Aurelio,2023-05-19T06:54:49.391Z,8038bc63-1a4e-4266-a69f-c648c1022572,PP,true,true,Spain,es,2020941188018481,Partido Popular de San Martín del Rey Aurelio,Facebook
@@ -369,6 +374,7 @@ fd9e73f9-993e-48ac-8a29-ed2ea48caa3e,Ciudadanos Paiporta,2023-04-29T06:54:44.428
 0d37c5ee-ea21-44a1-9f01-a392b0ba315e,PSOE Menorca,2023-03-28T10:54:52.045Z,f9f22b85-7498-46c0-b95a-bcb24288e8c9,PSOE,true,true,Spain,es,139327486097554,PSOE Menorca,Facebook
 0df63cc3-9a15-4d00-8fa1-13cab0fd07b1,Psoe Cieza,2023-03-29T10:54:55.671Z,298230b1-ebed-4812-87f7-18525cd4c377,PSOE,true,true,Spain,es,1539258252994258,Psoe Cieza,Facebook
 0ec08d23-f07e-4c40-95c5-d89f525b99c5,David Bote Paz,2023-02-17T10:54:36.235Z,b6dd5857-4f87-4192-a410-d5ed47959e76,PSOE,true,true,Spain,es,638550669533427,David Bote Paz,Facebook
+0f8be091-1219-4833-a7d8-7690f9434955,Psoe San Roque,2023-10-03T05:08:14.991Z,accee0f1-945a-431f-9a32-5d380b0cf921,PSOE,true,true,Spain,es,621815931226706,Psoe San Roque,Facebook
 104a948f-83c6-4eb1-9a0c-3085c9d32de6,Sandra Guaita,2023-02-08T05:55:38.407Z,83e3f227-52a3-4fee-ac2c-555fc2769fbf,PSOE,true,true,Spain,es,103186922575531,Sandra Guaita,Facebook
 106ab906-8e7e-4a31-a3f0-5147acd3d182,Cumplimos con Sanlúcar,2023-05-14T06:54:55.069Z,2fabaf4e-d608-4bd2-8469-a078e16c9681,PSOE,true,true,Spain,es,619959218511439,Cumplimos con Sanlúcar,Facebook
 1224c50f-a298-42ca-9fe1-8985fd1b1d3e,Socialistas de Cájar,2023-05-28T06:54:06.329Z,9c1aa874-70e8-43d2-8e1f-299708f0c771,PSOE,true,true,Spain,es,2926470534045897,Socialistas de Cájar,Facebook
@@ -518,6 +524,7 @@ fd9e73f9-993e-48ac-8a29-ed2ea48caa3e,Ciudadanos Paiporta,2023-04-29T06:54:44.428
 715baa30-365a-4527-9dde-db0bb6e66d18,PSdeG-PSOE de Xinzo de Limia,2023-05-28T06:54:05.620Z,055b99fc-4df5-497c-89bb-94b4392fce0f,PSOE,true,true,Spain,es,764086713938773,PSdeG-PSOE de Xinzo de Limia,Facebook
 71d976f0-7de7-452d-868b-da7eb588ece4,Socialistas Vizcaínos,2023-05-20T06:54:49.050Z,474f42d3-f993-4313-95ba-d08d704a45fb,PSOE,true,true,Spain,es,109804605891436,Socialistas Vizcaínos,Facebook
 72882ea5-712f-4e04-a2ef-022800cae26a,Agustinet President - Socialistes d'Eivissa,2023-05-16T06:54:46.791Z,711023a8-1607-4318-b651-5485c32274fc,PSOE,true,true,Spain,es,145109405547536,Agustinet President - Socialistes d'Eivissa,Facebook
+73490c4a-f804-46fb-827b-4854e90710ab,Psoe Cártama,2023-11-10T05:08:11.319Z,b2e517b1-6548-46bd-8f79-c26a71e049d2,PSOE,true,true,Spain,es,1495964437332033,Psoe Cártama,Facebook
 744b535f-3465-4424-ac57-67d546f4af01,Agrupación Socialista de Alcorcón,2023-03-07T10:54:46.190Z,493c06c3-d3fc-4143-b3a1-22646bc31bd5,PSOE,true,true,Spain,es,128342437253763,Agrupación Socialista de Alcorcón,Facebook
 7565750c-26e6-499f-9bf5-34598387f61a,PSOE TERUEL,2023-02-27T10:54:49.099Z,aa84dd88-3499-4d9d-8690-2a594ce802d3,PSOE,true,true,Spain,es,166267820250189,PSOE TERUEL,Facebook
 76ed5db1-82f0-4ae0-9181-072f867168f2,Patricia Hernández Gutiérrez,2023-03-03T10:54:46.329Z,fe58f737-a1b8-4285-987f-6175276f3a73,PSOE,true,true,Spain,es,1394202187555081,Patricia Hernández Gutiérrez,Facebook
@@ -559,6 +566,7 @@ fd9e73f9-993e-48ac-8a29-ed2ea48caa3e,Ciudadanos Paiporta,2023-04-29T06:54:44.428
 870363bc-89e8-4d39-8ff2-7ef7c8a441bd,Agrupación Municipal PSOE Huelva,2023-03-18T10:54:48.888Z,b1373ef3-8122-4b78-845a-9da08a83f236,PSOE,true,true,Spain,es,372909479493645,Agrupación Municipal PSOE Huelva,Facebook
 87090ab7-fdc7-445f-a721-c431c822cd05,Pepe Vélez,2023-03-08T17:39:03.901Z,f57331f0-9a25-4da8-b494-dbef07400446,PSOE,true,true,Spain,es,114468157917370,Pepe Vélez,Facebook
 88448357-cc5e-49de-ba41-8895ed70e38f,Psoe de Baza,2023-03-05T10:54:55.990Z,c74c6007-0da4-474b-a299-717057935734,PSOE,true,true,Spain,es,1486434161629915,Psoe de Baza,Facebook
+89a1f60b-a152-4ab1-b99e-0840c337f58e,daviddiazpsoe,2023-11-10T05:08:11.382Z,7c134059-a8c5-4889-8ae1-5850fb77b020,PSOE,true,true,Spain,es,106046955753258,daviddiazpsoe,Facebook
 8a702320-d98d-40cd-926e-d33e00940377,PSC Montbui,2023-05-18T06:54:57.544Z,38fc3245-671b-4aa2-b86c-b669eca4cb51,PSOE,true,true,Spain,es,105784651487400,PSC Montbui,Facebook
 8b0d4879-4348-4c30-84fc-20bbb9d77dd8,PSC Lloret de Mar,2023-02-19T10:55:00.719Z,b9914415-8c1f-4eaa-8a6d-a4ae7d2b6285,PSOE,true,true,Spain,es,536527116467891,PSC Lloret de Mar,Facebook
 8d3d40df-e049-4ee7-b6a9-28ddba88db48,Psoe Rosal,2023-05-17T06:54:11.356Z,33bf8a6c-b8b7-44c8-a37a-22138ee3f9b6,PSOE,true,true,Spain,es,853438368061529,Psoe Rosal,Facebook
@@ -569,7 +577,9 @@ fd9e73f9-993e-48ac-8a29-ed2ea48caa3e,Ciudadanos Paiporta,2023-04-29T06:54:44.428
 91fdfec3-91df-4be1-abac-4d654b0c6b98,Seseña Avanza con Silvia Fernández,2023-05-16T06:54:46.542Z,61e5b6f6-921c-45d9-8e9c-f25019b9909b,PSOE,true,true,Spain,es,110966071907206,Seseña Avanza con Silvia Fernández,Facebook
 923f3974-7995-4e29-8158-b597dfc3b0e2,PSOE Calvià,2023-05-24T06:54:49.996Z,c0960fca-3bfb-4737-90ff-e7b4e7f8bfaf,PSOE,true,true,Spain,es,196330480521098,PSOE Calvià,Facebook
 925fa022-f05a-482b-82f1-00f57a997183,Partido Socialista de la Región de Murcia (PSRM-PSOE),2023-02-07T15:05:57.696Z,1b423f29-c911-4b35-b765-d0ca4ab2c5d4,PSOE,true,true,Spain,es,154616807805,Partido Socialista de la Región de Murcia (PSRM-PSOE),Facebook
+93a4895b-2dea-4b99-8188-146c063e4718,PSOE de Trigueros,2023-11-20T05:08:35.902Z,0fd51a29-f313-4b89-8456-9652df8e6c01,PSOE,true,true,Spain,es,539329526206744,PSOE de Trigueros,Facebook
 941fc11e-14be-4451-9786-eba6d00a6189,PSOE Andújar,2023-03-20T10:54:48.368Z,ee247f0b-c3c4-4e4f-b5a3-c8f60d744958,PSOE,true,true,Spain,es,407858982569623,PSOE Andújar,Facebook
+96fa0814-2fd4-4ca4-98ec-fbf3a7fc991a,PSOE CALAHORRA,2023-11-28T06:41:39.184Z,887a5feb-6036-4457-a43e-d478472a67de,PSOE,true,true,Spain,es,133089813372465,PSOE CALAHORRA,Facebook
 993c364c-69a3-4b8e-a336-0ed4bad8ece4,Pspv Psoe Benetusser,2023-03-17T10:55:08.627Z,31acd1a1-a657-4046-8687-723613f2c018,PSOE,true,true,Spain,es,349182995256652,Pspv Psoe Benetusser,Facebook
 9949da24-79e4-440f-8867-11b339b1d9ad,PSOE Pozuelo de Alarcón,2023-02-08T05:55:38.770Z,2e95f20f-f076-4fab-9ec6-475848de1250,PSOE,true,true,Spain,es,743667075730528,PSOE Pozuelo de Alarcón,Facebook
 994b25ea-7466-41c9-aa9f-113ec8106c8f,Socialistas Yecla,2023-03-27T10:54:59.574Z,ab069b71-068d-426b-a223-74907696c03a,PSOE,true,true,Spain,es,1540963892855838,Socialistas Yecla,Facebook
@@ -636,6 +646,7 @@ b8494592-7e01-4762-a191-fcf7dbe5cc3e,Psoe La Rioja,2023-02-26T10:54:55.488Z,59ee
 b90d100a-8231-4b46-a081-cb404b02d374,Psoe Arucas,2023-05-19T06:54:48.959Z,ddd0cfd4-98ae-4784-839f-32ba754f5dd5,PSOE,true,true,Spain,es,1588290281402206,Psoe Arucas,Facebook
 b914cbf7-2d72-4daa-8bc7-7557d1b59ada,Socialistas Hondarribia,2023-02-08T05:55:38.625Z,dd02522e-c881-4017-8cfe-c8464813ea1e,PSOE,true,true,Spain,es,447618935403710,Socialistas Hondarribia,Facebook
 b96c3f50-cf4b-4d8f-b52f-2506fe32656e,PSOE Lora del Río,2023-05-28T06:54:04.351Z,7b6b9c57-b7f4-4ba5-b085-b7434b75f759,PSOE,true,true,Spain,es,384839278259564,PSOE Lora del Río,Facebook
+ba6fe73f-232d-4ddf-ad85-2e88896fdf0b,Antonio Conde,2023-05-27T06:54:09.636Z,b45dd1d4-467b-410d-90ce-6feea63fc48f,PSOE,true,true,Spain,es,118835212128751,Antonio Conde,Facebook
 bb602fee-aa38-4fcc-b5db-a637e616aace,PSOE de Estepona,2023-02-07T15:05:57.830Z,334c32cd-422c-4661-81b0-38952fb3f05d,PSOE,true,true,Spain,es,304569077091484,PSOE de Estepona,Facebook
 bbee1bd2-1648-4179-abe3-26a771355984,PSC Manlleu,2023-03-27T10:54:59.085Z,210ab84d-5c3b-4aa9-85a2-74c9b827bab6,PSOE,true,true,Spain,es,1607012802845192,PSC Manlleu,Facebook
 bc05df3e-cb6a-4231-b204-43dc54c891b4,Alberto Blazquez Sanchez,2023-03-21T10:54:42.352Z,0624e279-e6c9-4ad4-9f49-d70a396e9aad,PSOE,true,true,Spain,es,145952682633168,Alberto Blazquez Sanchez,Facebook
@@ -772,6 +783,7 @@ d6a36aec-5356-4158-880c-0aacb84739bb,Celia Fuentes,2023-05-30T06:54:58.734Z,5014
 db2aa735-071a-4591-ab63-4d3591542103,Cristóbal Palacio - Diputado de VOX en Cantabria,2023-02-13T10:54:44.122Z,602ff520-d5ce-4828-809d-e0573a39832e,VOX,true,true,Spain,es,105805197932789,Cristóbal Palacio - Diputado de VOX en Cantabria,Facebook
 e93b84b5-0d1c-4ca1-b77c-19d1bb6f587f,VOX Torrelavega,2023-03-08T15:35:23.936Z,57626eb5-cb1d-4318-9fda-6ed3a19a433c,VOX,true,true,Spain,es,103624784805627,VOX Torrelavega,Facebook
 ea9ea9b1-5808-4b14-9f3b-7b9ea9597724,VOX Tamarite,2023-05-16T06:54:47.199Z,7a047f17-e8c2-4e6e-949a-a322296ba7f2,VOX,true,true,Spain,es,107885085628730,VOX Tamarite,Facebook
+f260e624-52d5-4bbd-beb6-595206bdcd50,Grupo Municipal VOX Torrelavega,2023-09-15T05:08:02.237Z,8dd5128c-f6b2-4718-95f8-5c363b79dab7,VOX,true,true,Spain,es,120047134516756,Grupo Municipal VOX Torrelavega,Facebook
 118afe8f-af42-420f-a00a-d0e613c91db3,,2023-05-16T06:54:46.009Z,54c6c125-ba0e-44dd-9ef1-b48578376042,Otros,true,true,Spain,es,104272409326013,,Facebook
 17bc3fe5-1b65-4a47-9412-9c8d0abe6732,PCTG - Partido Comunista dos Traballadores da Galiza,2023-05-26T06:54:57.425Z,b36b5301-32db-4f1a-9fca-13395b7d7634,Otros,true,true,Spain,es,1539392602978916,PCTG - Partido Comunista dos Traballadores da Galiza,Facebook
 23bc6913-5fe7-4632-84c3-fa39d5be650a,FORO Valdés,2023-05-09T06:54:27.111Z,e5843f4e-8228-48ae-9480-299a1547718e,Otros,true,true,Spain,es,411859116060805,FORO Valdés,Facebook
@@ -800,6 +812,7 @@ aba312c0-fc3a-4a59-8d79-ccb371576512,PACMA - Partido Animalista,2022-08-16T15:24
 ae0e4f55-b632-4646-bcb4-10c2192058de,,2023-05-17T06:54:11.297Z,625d817d-2687-4c55-b1da-9bef1c493580,Otros,true,true,Spain,es,105371845887214,,Facebook
 b125327a-b931-4253-93bc-ec4cd7dadc6b,Ahora Canarias Aguimes,2023-05-11T06:54:47.139Z,03e8fe62-e3b7-4160-b83e-79b8193879fd,Otros,true,true,Spain,es,249850985949345,Ahora Canarias Aguimes,Facebook
 b76c3202-33cd-4a92-9465-b04151fcf896,AE - POR ALGAIDAS,2023-05-29T06:54:09.397Z,767dad9c-f750-4412-9cbf-c96edfaceecb,Otros,true,true,Spain,es,2227127460710966,AE - POR ALGAIDAS,Facebook
+bb61d6f4-f004-46d5-abc9-1e6b494ec86c,Falange Española de las JONS,2022-08-16T15:24:00.588Z,f9fc84a8-5041-4ba6-8633-f55439e68bcf,Otros,true,true,Spain,es,85178904154,Falange Española de las JONS,Facebook
 c03cb59a-ce5b-4ea4-8511-79d6b31928fe,David de la Cruz,2023-02-10T10:54:44.861Z,939883a2-1b74-436f-b60e-758d3839c35c,Otros,true,true,Spain,es,110612708546711,David de la Cruz,Facebook
 c63c5a14-286f-47bf-82f7-ec569686bd04,FORO Avilés,2023-04-25T06:54:33.784Z,b84ab4a7-5208-466f-9c54-7a471b995b69,Otros,true,true,Spain,es,106410125746057,FORO Avilés,Facebook
 cb961e86-b0d5-4113-be9b-adac2c5f5452,FORO Llanes,2023-04-16T15:07:02.099Z,b8641135-5b21-4345-b3c6-218b4a3a76e7,Otros,true,true,Spain,es,106873285651507,FORO Llanes,Facebook
@@ -1139,6 +1152,7 @@ f97ef7fc-5c6f-419c-bd90-b8c1cb71ecb6,Coalicion Canaria,2023-02-07T15:05:57.282Z,
 228137c9-c29c-4f7d-9452-e56bbe1a1408,Junts per Catalunya - Primàries  El Vendrell,2023-02-07T15:05:57.982Z,9dd77fd7-5da7-4682-9cfa-4c54e09f43b1,Jun,true,true,Spain,es,106725588244230,Junts per Catalunya - Primàries  El Vendrell,Facebook
 22fb6aed-a917-41f4-90b7-5a9622a11d0a,Junts per Granollers,2023-05-27T06:54:09.289Z,3e94f867-dd6d-48f4-a81b-652365498ca5,Jun,true,true,Spain,es,323448691701321,Junts per Granollers,Facebook
 2b72a34e-dee0-466e-9a05-15f86a251b5e,JuntsxSalt,2023-05-30T06:54:56.741Z,de239c88-b71f-43fa-b72f-625b8cfee7aa,Jun,true,true,Spain,es,103648095645680,JuntsxSalt,Facebook
+2bd7b12f-3b16-42d2-8a76-135f37c824a7,Junts per Campredó,2023-07-19T06:08:23.882Z,0a49daa7-f72f-4584-9155-b7c17407af85,Jun,true,true,Spain,es,482040988866825,Junts per Campredó,Facebook
 2d44bc5e-ea42-4c76-a924-0017558a5c01,Junts per Catalunya - Vidreres,2023-05-16T06:54:46.925Z,f6ceaa97-d542-45ab-99d2-e5e695fd9f97,Jun,true,true,Spain,es,265760857701334,Junts per Catalunya - Vidreres,Facebook
 2f252975-aec2-4386-a305-6a227ea11a0e,Junts per Sant Cugat,2023-03-08T14:46:25.744Z,ced03930-a603-4340-a934-33367913b61c,Jun,true,true,Spain,es,106318646084206,Junts per Sant Cugat,Facebook
 3063606c-abfe-4a28-9653-d99f0f40b76f,,2023-05-10T06:55:02.246Z,96cfc77b-53cb-469d-a453-9096b4029106,Jun,true,true,Spain,es,100437573020070,,Facebook
@@ -1160,11 +1174,13 @@ f97ef7fc-5c6f-419c-bd90-b8c1cb71ecb6,Coalicion Canaria,2023-02-07T15:05:57.282Z,
 6cd03fe5-2f58-457d-bffa-1c31bd038fb1,JuntsxCat_Reus,2023-05-23T06:54:44.134Z,a7e34538-b5c2-4bee-a10f-b3887b991305,Jun,true,true,Spain,es,101195265284945,JuntsxCat_Reus,Facebook
 7128a37a-3910-4f32-87f5-8bd04a3badc3,Esquerra Pineda-Junts X Pineda,2023-05-20T06:54:49.441Z,bc582a21-e914-4535-ae48-35b1fad98663,Jun,true,true,Spain,es,496575443766424,Esquerra Pineda-Junts X Pineda,Facebook
 71b9a3d1-6ea2-474d-9507-ec71f0e8f696,Junts per Terrassa,2023-02-20T10:54:46.740Z,5adb4eee-aaf9-49a0-84d5-ae47b13af0e7,Jun,true,true,Spain,es,149771515164339,Junts per Terrassa,Facebook
+75551219-3daa-4016-bb0e-0fb71a524bd5,Xavier Royo Franch,2023-09-16T05:08:11.765Z,5b0421e6-eea3-42f9-98e0-b5d2d466b7c6,Jun,true,true,Spain,es,133879989801307,Xavier Royo Franch,Facebook
 7adedc37-6310-4ae4-9588-79e6b9bb9d61,Junts per la Jonquera,2023-05-23T06:54:44.974Z,d3549ead-fd0c-4695-8f7d-e8a66b58688b,Jun,true,true,Spain,es,101538673252700,Junts per la Jonquera,Facebook
 7c036f34-64c1-4ca8-8fa8-028d725912e6,L'Albesa que SUMA,2023-05-20T06:54:49.561Z,9442257a-00d5-4cfd-bf46-e187dd8a76d0,Jun,true,true,Spain,es,101903106244818,L'Albesa que SUMA,Facebook
 7e1cb5f4-c8bd-4278-8385-9f4cbb4d887d,Junts per Figueres,2023-05-24T06:54:49.218Z,921fa79d-8cd8-4083-8148-2774a25e4e23,Jun,true,true,Spain,es,1422955568001005,Junts per Figueres,Facebook
 7e8aaba5-e910-42ca-9034-c8a1e33b726b,Junts per Mataró,2023-03-11T10:55:04.597Z,ecab2f94-f404-4672-8900-28a9b48a87ab,Jun,true,true,Spain,es,107685437486149,Junts per Mataró,Facebook
 824c91db-87b7-4b84-b294-7a96b6bc9580,Junts X Calonge I Sant Antoni,2023-03-21T10:54:42.730Z,c0f67398-bb37-4aff-9b04-6b288cb672c1,Jun,true,true,Spain,es,711617709212574,Junts X Calonge I Sant Antoni,Facebook
+839a1f84-f692-4433-b08f-81003646e94c,Junts Per l'Aldea,2023-08-13T05:08:58.144Z,f810c8a7-b72e-4dc5-9ac0-9cbf9ab11e46,Jun,true,true,Spain,es,110932082007616,Junts Per l'Aldea,Facebook
 87771f9e-aa9b-4ffa-9a42-d83e5aeade8e,Ruth Ufano,2023-02-07T15:05:58.000Z,1dce01b0-4f0e-49ef-8b16-952cb355973f,Jun,true,true,Spain,es,104444375807030,Ruth Ufano,Facebook
 89d5879c-5b36-4b47-a8ae-3187a96aff60,Àlex Sastre,2023-05-16T06:54:46.789Z,e9ea5ed0-6e9f-4524-b691-17c2b0939cd2,Jun,true,true,Spain,es,438208139668808,Àlex Sastre,Facebook
 89e4f3dd-d893-4d50-8d00-903dd71a93dc,Montserrat Garrido,2023-03-19T10:54:47.235Z,c306d619-bb0d-4d95-b4b1-90d9855b48cf,Jun,true,true,Spain,es,120639624304543,Montserrat Garrido,Facebook
@@ -1185,6 +1201,7 @@ c4663562-5360-474c-adef-d5a0340b1d50,,2023-04-22T06:05:11.967Z,f4192b61-4101-4e2
 c60d2ba9-a24b-49ea-8007-d9f58f54d1e5,"Junts per Sallent, Cabrianes i Cornet",2023-05-09T06:54:27.292Z,c84c1b28-72b1-43ff-bf73-e43645445363,Jun,true,true,Spain,es,268389027155988,"Junts per Sallent, Cabrianes i Cornet",Facebook
 c9635fdd-de77-4d66-ace6-c6d5fb6a6da2,Junts x Gavà,2023-03-08T17:39:03.945Z,f9d846f7-ac50-4f3a-ae82-b2ae91cc1fce,Jun,true,true,Spain,es,864662593590507,Junts x Gavà,Facebook
 cf15f95d-0ba4-4c44-9c26-a5455b74f2e3,Ivan Vila Romero,2023-05-20T06:54:49.323Z,0607fb61-ef59-4e35-b527-c29116fd1063,Jun,true,true,Spain,es,105898692423118,Ivan Vila Romero,Facebook
+d0052154-ccea-45d3-85ad-78c84d0fedca,Junts per Cabrera,2023-12-15T05:08:18.006Z,4101c1ac-6464-4202-af9a-8f8baf373246,Jun,true,true,Spain,es,2197608567219372,Junts per Cabrera,Facebook
 d1f4e538-da09-42b8-8bb7-9acd265cb913,Alícia Álvarez,2023-02-07T15:05:58.425Z,a7264549-b52f-4658-97e6-dcff9358d820,Jun,true,true,Spain,es,108306782170494,Alícia Álvarez,Facebook
 d2385317-3989-490d-95c6-389133abc007,Junts per Riudoms,2023-05-16T06:54:47.138Z,57f658a0-412c-4b3c-a915-1ab63e91b8fe,Jun,true,true,Spain,es,283050432531657,Junts per Riudoms,Facebook
 d2bc3433-ff21-4510-8032-7a9950ba2c1b,Junts per Vilassar,2023-02-13T10:54:44.669Z,8af83075-1856-402d-bc0d-466a4b135352,Jun,true,true,Spain,es,1618545471690926,Junts per Vilassar,Facebook
